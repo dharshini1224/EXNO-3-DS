@@ -31,8 +31,33 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+# 1. FUNCTION TRANSFORMATION
+
+<img width="875" height="632" alt="image" src="https://github.com/user-attachments/assets/2d291a29-f5d5-487d-93a1-29b9842c3551" />
+
+<img width="910" height="713" alt="image" src="https://github.com/user-attachments/assets/aa38911c-a7c7-4dc7-a48a-09108e552189" />
+
+![WhatsApp Image 2025-09-19 at 16 17 19_b019d6cb](https://github.com/user-attachments/assets/6c2621cc-abb6-43cc-930d-f503515c7a8e)
+
+<img width="875" height="687" alt="image" src="https://github.com/user-attachments/assets/d14d6c73-a199-4d80-8fe8-8b84a4db7ce7" />
+
+ # 2. POWER TRANSFORMATION
+ 
+ <img width="943" height="692" alt="image" src="https://github.com/user-attachments/assets/1d82d4af-4dab-4508-b154-dca38bb6be24" />
+
+<img width="842" height="702" alt="image" src="https://github.com/user-attachments/assets/400e0876-3706-4440-ba6c-50723eaf0e84" />
+
+
+
+
+
+
+
+       
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
+
+
 
        
